@@ -1,4 +1,5 @@
 {
+"_comment_poc": "PoC re-run #2: new commit to trigger the workflow after adding 'allow-unsafe-pr-checkout'",
     "name": "demo/linkstash",
     "description": "Tiny bookmark manager web app",
     "type": "project",
